@@ -49,3 +49,14 @@ ALTER TABLE Movies ADD Ranking int;
 ALTER TABLE Movies MODIFY COLUMN Ranking double(10,3);
 ALTER TABLE Movies DROP rating;
 desc Movies;
+
+Truncate Command.
+Q10.Create an Employee table with ID,Name,Dept_name,Salary.
+CREATE TABLE Employee (ID int PRIMARY kEY,Name Varchar(10) NOT NULL,Dept_Name Varchar(10),Salary int);
+TRUNCATE TABLE Employee;
+SELECT * FROM Movies;
+
+Q11.Create a Student table with it's relevant columns.
+CREATE TABLE Student (Roll_Number Int ,Student_Name varchar(20) , DOB date, Percentage float(10,2), Age int );
+TRUNCATE TABLE Student;
+SELECT *  FROM Student;
