@@ -60,3 +60,16 @@ Q11.Create a Student table with it's relevant columns.
 CREATE TABLE Student (Roll_Number Int ,Student_Name varchar(20) , DOB date, Percentage float(10,2), Age int );
 TRUNCATE TABLE Student;
 SELECT *  FROM Student;
+
+Q12. Create a FACULTY table.
+
+![FACULTY TABLE CREATION](https://github.com/user-attachments/assets/590e707a-3edf-4134-baa2-e452120b1440)
+
+Q13. Adding a new column in faculty table.
+
+![faculty adding a new column name](https://github.com/user-attachments/assets/92b42cce-5358-49a9-b37e-6f5069bf6403)
+
+Q14.Modifying an exsisting column in Faculty.
+
+![faculty modifying an exsisting column](https://github.com/user-attachments/assets/50a3516a-430f-404f-9e95-8e50e8591801)
+
