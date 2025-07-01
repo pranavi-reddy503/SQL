@@ -1,4 +1,4 @@
-# SQL: BASIC QUESTIONS...
+![FACULTY adding a new constraint to the column](https://github.com/user-attachments/assets/c5300164-1ae0-4fdb-8593-5812238b3ba4)![faculty adding a new column name](https://github.com/user-attachments/assets/dd6288cb-ba91-4bd3-a71b-cc77eca64b72)# SQL: BASIC QUESTIONS...
 Creating a table.
 
 Q1.Create an Employee table with ID,Name,Dept_name,Salary as it's columns.
@@ -72,4 +72,45 @@ Q13. Adding a new column in faculty table.
 Q14.Modifying an exsisting column in Faculty.
 
 ![faculty modifying an exsisting column](https://github.com/user-attachments/assets/50a3516a-430f-404f-9e95-8e50e8591801)
+
+Q15.Dropping a column name in faculty.
+
+![FACULTY dropping a column  name](https://github.com/user-attachments/assets/16f741ce-6548-407b-a5d3-527a74c8c400)
+
+Q16.Adding a new constraint to faculty table.
+
+![FACULTY adding a new constraint to the column](https://github.com/user-attachments/assets/82ea2208-48c8-46e1-8196-15add4e462da)
+
+Q17.Dropping a constraint in faculty table
+
+![FACULTY dropping a constraint](https://github.com/user-attachments/assets/67e33f61-d24f-4e8c-99f1-73753926f380)
+
+Q18.Insert values into faculty table.
+
+![FACULTY INSERTING VALUES INTO THE TABLE](https://github.com/user-attachments/assets/3dfea37c-35c1-4dd8-9451-665afaed2b13)
+
+Q19.Using default function in table.
+
+![using default sql;](https://github.com/user-attachments/assets/9430cf67-96b3-45c4-8de1-a6dc80683ae6)
+
+Q20.Using count function in a table.
+
+![COUNT FUNCTION SQL](https://github.com/user-attachments/assets/b16fa7f3-4ef0-44f3-bd69-bad7744feac3)
+
+Q21.Using sum command in a table.
+
+![COUNT FUNCTION SQL](https://github.com/user-attachments/assets/bac5e750-e564-4587-a362-8ccf66a79913)
+
+Q22.Using average ccommand.
+
+![AVG COMMAND SQL](https://github.com/user-attachments/assets/f01e31ef-18b8-492b-9409-5a59b34bf267)
+
+Q23.Using maximum command.
+
+![MAX COMMAND SQL](https://github.com/user-attachments/assets/92d1536b-185b-4fc6-8ef4-01fc5e90659a)
+
+Q24.Using DCL and DML Commands.
+
+![SQL DCL AND DML COMMANDS](https://github.com/user-attachments/assets/2e2ca6dc-b4ed-4e00-8b68-c6c44d92d36d)
+
 
