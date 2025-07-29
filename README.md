@@ -168,6 +168,11 @@ Q25.Create a Student table with it's relevant columns.
 
 CREATE TABLE Student (Roll_Number Int ,Student_Name varchar(20) , DOB date, Percentage float(10,2), Age int );
 
+Q26.All commands in Movies table
+
+![movies table](https://github.com/user-attachments/assets/2fe37a44-2bfc-441a-a91f-0113b3223072)
+
+
 TRUNCATE TABLE Student;
 
 SELECT *  FROM Student;
